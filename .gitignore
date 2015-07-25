@@ -1,0 +1,15 @@
+*.swp
+.idea
+*.iml
+npm-debug.log
+.DS_Store
+atlassian-ide-plugin.xml
+_deploy
+_public
+source/data
+config.js
+lib/Makefile
+*.done
+
+# npm module
+node_modules/robotskirt/build
